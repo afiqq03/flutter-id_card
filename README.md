@@ -1,6 +1,6 @@
-# identification_card
+# Identification Card using Flutter
 
-A new Flutter project.
+Basic flutter playing with MaterialApp widget
 
 ## Getting Started
 
