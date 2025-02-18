@@ -2,15 +2,81 @@
 
 Basic flutter playing with MaterialApp widget
 
+# Flutter ID Card App
+
+A simple Flutter application that displays a digital ID card with personal information.
+
+## Description
+
+This application is a digital ID card built using Flutter. It showcases basic user information including:
+- Profile picture
+- Name
+- Nationality
+- Email contact
+
+## Features
+
+- Clean and modern UI design
+- Dark theme
+- Responsive layout
+- Contact information display
+
+## Screenshots
+
+<div allign = "center">
+<img src="" alt="User Interface" width="300"/>
+</div>
+
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter SDK
+- Dart SDK
+- Any IDE with Flutter support (VS Code, Android Studio, etc.)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository
+```bash
+git clone https://github.com/your-username/identification_card.git
+```
+
+2. Navigate to project directory
+```bash
+cd identification_card
+```
+
+3. Get dependencies
+```bash
+flutter pub get
+```
+
+4. Run the app
+```bash
+flutter run
+```
+
+## Project Structure
+
+```
+identification_card/
+  ├── assets/
+  │   └── psp.png
+  ├── lib/
+  │   └── main.dart
+  └── pubspec.yaml
+```
+
+## Dependencies
+
+- Flutter SDK
+- Material Design
+
+## Contributing
+
+Feel free to submit issues and enhancement requests.
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details
