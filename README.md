@@ -24,7 +24,7 @@ This application is a digital ID card built using Flutter. It showcases basic us
 ## Screenshots
 
 <div allign = "center">
-<img src="" alt="User Interface" width="300"/>
+<img src="screenshots/id.jpg" alt="User Interface" width="300"/>
 </div>
 
 ## Getting Started
